@@ -1,0 +1,2 @@
+Obtained from:
+https://www.kaggle.com/datasets/chrisfilo/fruit-recognition?select=muskmelon
